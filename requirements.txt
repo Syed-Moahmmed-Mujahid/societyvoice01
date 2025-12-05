@@ -1,0 +1,6 @@
+Flask
+flask-cors
+pymongo        # The official MongoDB driver
+dnspython      # Required for MongoDB Atlas connection (mongodb+srv:// URI)
+python-dotenv  # Recommended for managing MONGO_URI locally
+werkzeug
